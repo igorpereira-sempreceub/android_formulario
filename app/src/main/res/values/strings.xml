@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nome">Formulário de Cadastro</string>
+    <string name="nome_hint">Nome</string>
+    <string name="ddd_hint">DDD</string>
+    <string name="telefone_hint">Telefone</string>
+    <string name="nascimento_hint">Nascimento</string>
+    <string name="salvar">Cadastrar</string>
+    <string name="nome_resultado">Formulário Submetido</string>
+    <string name="nome_res">Nome:</string>
+    <string name="nascimento_res">Nascimento:</string>
+    <string name="telefone_res">Telefone:</string>
+    <string name="ddd_res">DDD:</string>
+    <string name="nome_enviado">Nome enviado</string>
+    <string name="ddd_enviado">DDD enviado</string>
+    <string name="telefone_enviado">Telefone enviado</string>
+    <string name="nascimento_enviado">Nascimento enviado</string>
+</resources>
